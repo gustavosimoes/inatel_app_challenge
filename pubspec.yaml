@@ -29,7 +29,6 @@ dependencies:
   flutter_circular_chart: ^0.1.0
   curved_navigation_bar: ^0.3.7
   dart_ping: ^3.0.0
-  ip_geolocation_api: ^0.0.1
   connectivity: ^2.0.2
   expansion_tile_card: ^1.1.0
   

@@ -12,7 +12,6 @@ class GeolocationAPI {
         final parsed = jsonDecode(response.body);
         return GeolocationData.fromJson(parsed);
       }
-      print("geolocation api ${response.statusCode}");
       return null;
     } catch (e) {
       print(e);

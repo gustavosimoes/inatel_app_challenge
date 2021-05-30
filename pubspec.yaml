@@ -31,6 +31,7 @@ dependencies:
   dart_ping: ^3.0.0
   connectivity: ^2.0.2
   expansion_tile_card: ^1.1.0
+  http:
   
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
